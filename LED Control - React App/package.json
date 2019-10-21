@@ -1,0 +1,38 @@
+{
+  "name": "led-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.5.1",
+    "@react-native-community/slider": "^2.0.2",
+    "framer": "^1.1.4",
+    "framer-motion": "^1.6.14",
+    "notistack": "^0.9.5",
+    "react": "^16.10.2",
+    "react-compound-slider": "^2.3.0",
+    "react-dom": "^16.10.2",
+    "react-input-slider": "^5.1.3",
+    "react-notification": "^6.8.4",
+    "react-scripts": "^3.2.0",
+    "styled-components": "^4.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
